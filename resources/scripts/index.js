@@ -2,5 +2,6 @@
 
 function handleOnLoad(){
     document.getElementById("app").innerHTML=`
-    <h1>Hello World</h1>`
+    <h1>Hello World</h1>
+    <button>Click me!</button>`
 }
